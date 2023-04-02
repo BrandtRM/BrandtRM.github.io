@@ -154,22 +154,22 @@
 
 
 
-     /* Experience Section */
-     .experience {
-      background-color: var(--darkgray);
-    }
+  /* Experience Section */
+  .experience {
+    background-color: var(--darkgray);
+  }
     
-    .experience__container {
-      display: flex;
-      margin: auto auto;
-      height: 85vh;
-      background-color: var(--lightgray);
-      z-index: 1;
-      width: 100%;
-      max-width: 1500px;
-      padding-right: 50px;
-      padding-left: 50px;
-    }
+  .experience__container {
+    display: flex;
+    margin: auto auto;
+    height: 85vh;
+    background-color: var(--lightgray);
+    z-index: 1;
+    width: 100%;
+    max-width: 1500px;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
     
     .experience__content {
       color: var(--white);
@@ -194,7 +194,7 @@
 
 
 
-       /* Projects Section */
+  /* Projects Section */
    .projects {
     background-color: var(--darkgray);
   }
@@ -221,6 +221,22 @@
     align-items: center;
     flex-direction: column;
     width: 100%;
+  }
+
+  .pro {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    column-count: 2;
+  }
+
+  .projects11 {
+    width: 40%;
+  }
+
+  .projects12 {
+    text-align: center;
+    width: 60%;
   }
 
 
