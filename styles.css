@@ -223,35 +223,35 @@
     width: 100%;
   }
 
-  .projects1 {
+  .SDP {
     display: flex;
     width: 100%;
     align-items: center;
     column-count: 2;
   }
 
-  .projects11 {
+  .SDP1 {
     width: 40%;
   }
 
-  .projects12 {
+  .SDP2 {
     text-align: center;
     width: 60%;
   }
 
-  .projects2 {
+  .ViEditor {
     display: flex;
     width: 100%;
     align-items: center;
     column-count: 2;
   }
 
-  .projects21 {
+  .ViEditor1 {
     text-align: center;
     width: 60%;
   }
 
-  .projects22 {
+  .ViEditor2 {
     width: 40%;
   }
 
