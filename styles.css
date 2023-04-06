@@ -223,7 +223,7 @@
     width: 100%;
   }
 
-  .pro {
+  .projects1 {
     display: flex;
     width: 100%;
     align-items: center;
@@ -237,6 +237,22 @@
   .projects12 {
     text-align: center;
     width: 60%;
+  }
+
+  .projects2 {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    column-count: 2;
+  }
+
+  .projects21 {
+    text-align: center;
+    width: 60%;
+  }
+
+  .projects22 {
+    width: 40%;
   }
 
 
